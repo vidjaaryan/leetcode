@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/vidjaaryan/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0729-my-calendar-i](https://github.com/vidjaaryan/leetcode/tree/master/0729-my-calendar-i) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/vidjaaryan/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Hash Table
 |  |
@@ -20,4 +21,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/vidjaaryan/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0729-my-calendar-i](https://github.com/vidjaaryan/leetcode/tree/master/0729-my-calendar-i) |
+## Design
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/vidjaaryan/leetcode/tree/master/0729-my-calendar-i) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/vidjaaryan/leetcode/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/vidjaaryan/leetcode/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
