@@ -34,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/vidjaaryan/leetcode/tree/master/0729-my-calendar-i) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/vidjaaryan/leetcode/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
