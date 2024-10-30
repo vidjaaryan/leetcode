@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/vidjaaryan/leetcode/tree/master/0076-minimum-window-substring) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/vidjaaryan/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Counting
 |  |
@@ -38,4 +39,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/vidjaaryan/leetcode/tree/master/0058-length-of-last-word) |
+| [0076-minimum-window-substring](https://github.com/vidjaaryan/leetcode/tree/master/0076-minimum-window-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/vidjaaryan/leetcode/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
