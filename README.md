@@ -55,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/vidjaaryan/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/vidjaaryan/leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
