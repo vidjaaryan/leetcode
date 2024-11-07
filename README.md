@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/vidjaaryan/leetcode/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/vidjaaryan/leetcode/tree/master/0076-minimum-window-substring) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/vidjaaryan/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/vidjaaryan/leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Sliding Window
 |  |
