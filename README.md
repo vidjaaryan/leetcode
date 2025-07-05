@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/vidjaaryan/leetcode/tree/master/0010-regular-expression-matching) |
 | [0058-length-of-last-word](https://github.com/vidjaaryan/leetcode/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/vidjaaryan/leetcode/tree/master/0076-minimum-window-substring) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/vidjaaryan/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/vidjaaryan/leetcode/tree/master/0010-regular-expression-matching) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/vidjaaryan/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 ## Greedy
 |  |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1940-maximum-xor-for-each-query](https://github.com/vidjaaryan/leetcode/tree/master/1940-maximum-xor-for-each-query) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/vidjaaryan/leetcode/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
