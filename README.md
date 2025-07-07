@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/vidjaaryan/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0729-my-calendar-i](https://github.com/vidjaaryan/leetcode/tree/master/0729-my-calendar-i) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/vidjaaryan/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/vidjaaryan/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/vidjaaryan/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/vidjaaryan/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/vidjaaryan/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/vidjaaryan/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 ## Math
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/vidjaaryan/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [3291-find-if-array-can-be-sorted](https://github.com/vidjaaryan/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Prefix Sum
 |  |
@@ -91,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/vidjaaryan/leetcode/tree/master/0010-regular-expression-matching) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/vidjaaryan/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 <!---LeetCode Topics End-->
