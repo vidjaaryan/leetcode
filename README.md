@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/vidjaaryan/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/vidjaaryan/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/vidjaaryan/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/vidjaaryan/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1940-maximum-xor-for-each-query](https://github.com/vidjaaryan/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/vidjaaryan/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/vidjaaryan/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/vidjaaryan/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0729-my-calendar-i](https://github.com/vidjaaryan/leetcode/tree/master/0729-my-calendar-i) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/vidjaaryan/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/vidjaaryan/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Design
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/vidjaaryan/leetcode/tree/master/0010-regular-expression-matching) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/vidjaaryan/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/vidjaaryan/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/vidjaaryan/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/vidjaaryan/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/vidjaaryan/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Prefix Sum
 |  |
