@@ -130,3 +130,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vidjaaryan/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 <!---LeetCode Topics End-->
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=vidjaaryan/vidjaaryan&type=date&legend=bottom-right)](https://www.star-history.com/#vidjaaryan/vidjaaryan&type=date&legend=bottom-right)
